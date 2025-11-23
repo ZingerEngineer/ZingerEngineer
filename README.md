@@ -36,7 +36,7 @@ I am a dedicated **Full-Stack Software Developer** with strong experience in bui
 ### Backend & Databases  
 <p align="left">
   <img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://images.seeklogo.com/logo-png/33/1/express-js-logo-png_seeklogo-339850.png" alt="Express.js" width="40" height="40">
+  <img src="https://img.icons8.com/color/512/express-js.png" alt="Express.js" width="40" height="40">
   <img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://www.svgrepo.com/show/354200/postgresql.svg" alt="PostgreSQL" width="40" height="40"/>
   <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="MySQL" width="40" height="40"/>
